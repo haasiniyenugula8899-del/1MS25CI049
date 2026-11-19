@@ -1,3 +1,0 @@
-role,model,accuracy,precision,recall,macro_f1,average_latency_seconds,total_inference_time_seconds
-A,distilbert/distilbert-base-uncased-finetuned-sst-2-english,1.0,1.0,1.0,1.0,0.035815490008099006,0.7163098001619801
-B,textattack/bert-base-uncased-SST-2,1.0,1.0,1.0,1.0,0.07924174998770468,1.5848349997540936
