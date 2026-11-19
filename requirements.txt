@@ -1,0 +1,8 @@
+
+transformers
+torch
+mlflow
+pandas
+scikit-learn
+matplotlib
+seaborn

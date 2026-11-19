@@ -1,0 +1,9 @@
+text,prediction,confidence
+I am extremely satisfied with this purchase,POSITIVE,0.9997496008872986
+The experience was disappointing,NEGATIVE,0.9997026324272156
+The staff were kind and helpful,POSITIVE,0.9998264908790588
+The product stopped working after one day,NEGATIVE,0.9996603727340698
+I had a wonderful time,POSITIVE,0.9998815059661865
+This was the worst service I have received,NEGATIVE,0.9997807145118713
+Everything was better than expected,POSITIVE,0.9995962977409363
+I regret buying this product,NEGATIVE,0.9982863068580627
